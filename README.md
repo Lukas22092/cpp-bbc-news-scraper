@@ -29,7 +29,7 @@ I used this to get hands-on practice with web scraping.
 to do this just inspect the websites structure (txt file) and search for keywords
 like lastUpdated. To find the position of those keywords, search for a news title
 
-## Fork
+## Forking
 Feel free to fork, i am here to learn!
 
 ## How to run
