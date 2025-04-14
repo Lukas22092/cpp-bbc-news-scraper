@@ -35,4 +35,3 @@ like lastUpdated. To find the position of those keywords, search for a news titl
 2. Compile the code:
 ```bash
 g++ -std=c++11 main.cpp -o scraper -lcurl
-d
